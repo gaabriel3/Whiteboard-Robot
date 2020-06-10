@@ -1,11 +1,11 @@
 # Whiteboard-Robot
 
 **Step 1:**  
-a) **Within image_processing.py**, if you have a whiteboard created digitally, without the need for processing a photo, please change:  
+a) Within **image_processing.py**, if you have a whiteboard created digitally, without the need for processing a photo, please change:  
 LINE 239 -> Input the source of your whiteboard image  
 LINE 240 -> Input the path desired for the outputted image  
 
-b) **Within image_processing.py**, if you have a photo of the whiteboard, with the need for processing this photo, please change:  
+b) Within **image_processing.py**, if you have a photo of the whiteboard, with the need for processing this photo, please change:  
 LINES 220-237 -> uncomment all lines with only one '#'  
 LINES 239-243 -> comment out  
 LINE 220 -> Input the source of your whiteboard image  

@@ -11,8 +11,8 @@ LINES 239-243 -> comment out
 LINE 220 -> Input the source of your whiteboard image  
 LINE 221 -> Input the path desired for the outputted image  
 
-
-
+  
+  
 **Step 2:**  
 Within **path_finder_updated.py**, please change:  
 LINE 875 -> comment out  
@@ -20,8 +20,8 @@ LINE 876 -> Input the path for the image resulting in Step 1
 When executing this file, output the file to a text file.  
 A file such as the output.txt files in the example folders will be the result.  
 
-
-
+  
+  
 **Step 3:**  
 Within **sim.py**, for your use, please change:   
 LINE 139 -> Input the source of your whiteboard image  

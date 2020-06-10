@@ -1,6 +1,6 @@
 # Whiteboard-Robot
 
-Step 1:
+Step 1:  
 a) Within image_processing.py, if you have a whiteboard created digitally, without the need for processing a photo, please change:  
 LINE 239 -> Input the source of your whiteboard image  
 LINE 240 -> Input the path desired for the outputted image  
